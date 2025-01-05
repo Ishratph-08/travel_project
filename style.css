@@ -55,16 +55,16 @@ a{
     color:white;
 }
 .container >h1{
-    margin-left: 40px;
+    margin-left: 75px;
     font-size:60px;
 }
 .container > p {
-    padding:40px;
+    padding:75px;
     
 
 }
 .btn{
-    margin-left: 40px;
+    margin-left: 75px;
     height: 60px;
     width: 110px;
     font-size:15px;
