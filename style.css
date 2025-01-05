@@ -13,9 +13,16 @@ nav{
     grid-template-columns: 1fr 2fr;
     align-items:center;
     
+    
+}
+nav > .nav-menu2 > a:hover{
+    color:white;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 5px;
 }
 .search{
-    margin-top: 5px;
+    margin-top: 3px;
 }
 .nav-menu1{
 
